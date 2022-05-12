@@ -10,4 +10,10 @@
 
 ### DEX Decentralize Exchanges
 
+| Name   |      Plaform      |  Trading Fee |
+|----------|:-------------:|------:|
+| Uniswap |  Etherium |  |
+| PancakeSwap |    Binane Smart Chain   |    |
+| 0x Protocol | Multi Chain |     |
+
 
