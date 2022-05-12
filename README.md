@@ -2,6 +2,9 @@
 
 ## Contents
 - [Decentralize Exchanges](#DEX)
+- [CEX ( Centralized Exchanges )](#CEX ( Centralized Exchanges ))
+- [IDO ( Initial DEX Offering )](IDO ( Initial DEX Offering ))
+- [DEX ( Decentralize Exchanges  )](DEX ( Decentralize Exchanges  ))
 
 ### CEX ( Centralized Exchanges )
 
