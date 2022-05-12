@@ -4,13 +4,26 @@
 - [Decentralize Exchanges](#DEX)
 - [CEX ( Centralized Exchanges )](#CEX ( Centralized Exchanges ))
 - [IDO ( Initial DEX Offering )](IDO ( Initial DEX Offering ))
-- [DEX ( Decentralize Exchanges  )](DEX ( Decentralize Exchanges  ))
+
 
 ### CEX ( Centralized Exchanges )
+
+| Name   |      Plaform      |  Community |
+|----------|:-------------:|------:|
+| [Binance](https://binance.com/) |  Etherium |  |
+| [Kucoin](https://kucoin.com) |    Binane Smart Chain   |    |
+| [FTX](https://ftx.com)| Multi Chain |     |
+
 
 ### IDO ( Initial DEX Offering )
 
 ###  NFT Market Spaces
+
+| Name   |      Plaform      |  Community |
+|----------|:-------------:|------:|
+| [Uniswap](https://uniswap.org/) |  Etherium |  |
+| [PancakeSwap](https://pancakeswap.finance) |    Binane Smart Chain   |    |
+| 0x Protocol | Multi Chain |     |
 
 ### DEX ( Decentralize Exchanges  )
 
