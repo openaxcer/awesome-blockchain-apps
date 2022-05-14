@@ -1,9 +1,9 @@
 #  awesome-blockchain-apps  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg?style=flat-square)](https://github.com/sindresorhus/awesome)
 
 ## Table of Contents
-- [CEX ( Centralized Exchanges )](#CEX ( Centralized Exchanges ))
-- [Decentralize Exchanges](#DEX)
-- [IDO ( Initial DEX Offering )](IDO ( Initial DEX Offering ))
+- [Centralized Exchanges](#Centralized-Exchanges)
+- [Decentralize Exchanges](#Decentralize-Exchanges)
+- [Initial DEX Offering](#Initial-DEX-Offering)
 - [NFT Market Spaces](#NFT-Market-Spaces)
 
 
@@ -15,7 +15,10 @@
 | [Kucoin](https://kucoin.com) |    Binane Smart Chain   |    |
 | [FTX](https://ftx.com)| Multi Chain |     |
 
-DEX ( Decentralize Exchanges  )
+### Decentralize Exchanges
+Decentralized crypto exchanges (DEXs) are blockchain-based apps that coordinate large-scale trading of crypto assets between many users. They do that entirely through automated algorithms, instead of the conventional approach of acting as financial intermediary between buyers and sellers.
+The algorithms that DEXs use are examples of smart contracts. They are pieces of code written on top of blockchain networks like Ethereum that trigger various outputs when given certain inputs.
+The idea behind a DEX is "disintermediation," which means removing middlemen to allow regular people to do business directly with each another. A DEX doesn't offer custody of users’ crypto assets. Instead, users directly hold all their assets in their own wallets at all times. [from](https://www.coindesk.com/learn/what-is-a-dex-how-decentralized-crypto-exchanges-work/)
 
 | Name   |      Plaform      |  Community |
 |----------|:-------------:|------:|
