@@ -14,23 +14,26 @@
 | [Kucoin](https://kucoin.com) |    Binane Smart Chain   |    |
 | [FTX](https://ftx.com)| Multi Chain |     |
 
+DEX ( Decentralize Exchanges  )
+
+| Name   |      Plaform      |  Community |
+|----------|:-------------:|------:|
+| [Uniswap](https://uniswap.org/) |  Etherium |  |
+| [PancakeSwap](https://pancakeswap.finance) |    Binane Smart Chain   |    |
+| 0x Protocol | Multi Chain |     |
+
 
 ### IDO ( Initial DEX Offering )
 
 ###  NFT Market Spaces
 
-| Name   |      Plaform      |  Community |
+| Name   |      Support      |  Community |
 |----------|:-------------:|------:|
-| [Uniswap](https://uniswap.org/) |  Etherium |  |
-| [PancakeSwap](https://pancakeswap.finance) |    Binane Smart Chain   |    |
-| 0x Protocol | Multi Chain |     |
+| [opesea](https://opesea.io/) |  Etherium, Polygon |  |
+| [Rarible](https://pancakeswap.finance) |    Binane Smart Chain   |    |
+| SuperRare | |     |
+| Foundation |  |     |
 
-### DEX ( Decentralize Exchanges  )
 
-| Name   |      Plaform      |  Community |
-|----------|:-------------:|------:|
-| [Uniswap](https://uniswap.org/) |  Etherium |  |
-| [PancakeSwap](https://pancakeswap.finance) |    Binane Smart Chain   |    |
-| 0x Protocol | Multi Chain |     |
 
 
