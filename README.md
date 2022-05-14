@@ -52,6 +52,10 @@ If a project is launching an IDO, it means the project is launching a coin or to
 | SuperRare | |  ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)   |
 | Foundation |  |   ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)  |
 
+###  Decentralized Autonomous Organization
 
-
+| Name   |      Token      |   Deescription | Community |
+|----------|:-------------:|----------------:|---------:|
+|[Aragon](https://aragon.org)    |:  ANT        :| | |
+|[DAO Makeer](https://daomaker.com)    |:         :| | |
 
