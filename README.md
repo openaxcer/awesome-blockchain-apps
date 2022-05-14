@@ -1,9 +1,10 @@
 #  awesome-blockchain-apps  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg?style=flat-square)](https://github.com/sindresorhus/awesome)
 
-## Contents
-- [Decentralize Exchanges](#DEX)
+## Table of Contents
 - [CEX ( Centralized Exchanges )](#CEX ( Centralized Exchanges ))
+- [Decentralize Exchanges](#DEX)
 - [IDO ( Initial DEX Offering )](IDO ( Initial DEX Offering ))
+- [NFT Market Spaces](#NFT-Market-Spaces)
 
 
 ### CEX ( Centralized Exchanges )
