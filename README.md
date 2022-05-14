@@ -30,7 +30,7 @@ DEX ( Decentralize Exchanges  )
 
 | Name   |      Support      |  Community |
 |----------|:-------------:|------:|
-| [opesea](https://opesea.io/) |  Etherium, Polygon | <a href="https://twitter.com/opensea?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>   ! |
+| [opesea](https://opesea.io/) |  Etherium, Polygon | <a href="https://twitter.com/opensea?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>  <a href="https://discord.com/invite/opensea" target="blank"><img align="center" src="https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a> |
 | [Rarible](https://pancakeswap.finance) |    Binane Smart Chain   | ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)   |
 | SuperRare | |  ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)   |
 | Foundation |  |   ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)  |
