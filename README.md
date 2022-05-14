@@ -5,6 +5,7 @@
 - [Decentralize Exchanges](#Decentralize-Exchanges)
 - [Initial DEX Offering](#Initial-DEX-Offering)
 - [NFT Market Spaces](#NFT-Market-Spaces)
+- [Decentralized Autonomous Organization](Decentralized-Autonomous-Organization)
 
 
 ### Centralized Exchanges
@@ -16,6 +17,7 @@ Exchanges are essentially marketplaces. They are useful when a large number of p
 | [Binance](https://binance.com/) |  Etherium |  |
 | [Kucoin](https://kucoin.com) |    Binane Smart Chain   |    |
 | [FTX](https://ftx.com)| Multi Chain |     |
+
 
 ### Decentralize Exchanges
 Decentralized crypto exchanges (DEXs) are blockchain-based apps that coordinate large-scale trading of crypto assets between many users. They do that entirely through automated algorithms, instead of the conventional approach of acting as financial intermediary between buyers and sellers.
