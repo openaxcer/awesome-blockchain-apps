@@ -58,4 +58,7 @@ If a project is launching an IDO, it means the project is launching a coin or to
 |----------|:-------------:|----------------:|---------:|
 |[Aragon](https://aragon.org)    | ANT        | | |
 |[DAO Makeer](https://daomaker.com)    |         | | |
+|Dash|         | | |
+|Curve DAO|         | | |
+|BitDAO |         | | |
 
