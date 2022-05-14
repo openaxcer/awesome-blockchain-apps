@@ -24,7 +24,19 @@ DEX ( Decentralize Exchanges  )
 | 0x Protocol | Multi Chain |     |
 
 
-### IDO ( Initial DEX Offering )
+### Initial DEX Offering
+
+An initial DEX offering, or IDO, is a new and exciting type of decentralized and permissionless crowdfunding platform, which is opening up a new way of fundraising in the crypto space. 
+If a project is launching an IDO, it means the project is launching a coin or token via a decentralized liquidity exchange. This is a type of crypto asset exchange that depends on liquidity pools where traders can swap tokens, including crypto coins and stablecoins. For instance, USDT/ETH is a liquidity pair. [from](https://coinmarketcap.com/alexandria/article/what-is-an-initial-dex-offering-ido-and-why-do-we-need-them)
+
+| Name   |      category     |  Community |
+|----------|:-------------:|------:|
+| [Gamefi Aggrigator](https://gamefi.org/) |  Games |  |
+| [IDO Scan](https://idoscan.dev/) |    All   |    |
+| [Tron Pad](https://tronpad.network/) |  |     |
+| [Starpunk](https://starpunk.io/) |  Games|     |
+| [Invest Dex](https://investdex.io/) |  Defi|     |
+| [AtomPad](https://www.atompad.io/) |  All|     |
 
 ###  NFT Market Spaces
 
