@@ -5,7 +5,7 @@
 - [Decentralize Exchanges](#Decentralize-Exchanges)
 - [Initial DEX Offering](#Initial-DEX-Offering)
 - [NFT Market Spaces](#NFT-Market-Spaces)
-- [Decentralized Autonomous Organization](Decentralized-Autonomous-Organization)
+- [Decentralized Autonomous Organization](#Decentralized-Autonomous-Organization)
 
 
 ### Centralized Exchanges
