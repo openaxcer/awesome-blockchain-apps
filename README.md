@@ -30,10 +30,10 @@ DEX ( Decentralize Exchanges  )
 
 | Name   |      Support      |  Community |
 |----------|:-------------:|------:|
-| [opesea](https://opesea.io/) |  Etherium, Polygon |  |
-| [Rarible](https://pancakeswap.finance) |    Binane Smart Chain   |    |
-| SuperRare | |     |
-| Foundation |  |     |
+| [opesea](https://opesea.io/) |  Etherium, Polygon | ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white) |
+| [Rarible](https://pancakeswap.finance) |    Binane Smart Chain   | ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)   |
+| SuperRare | |  ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)   |
+| Foundation |  |   ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)  |
 
 
 
