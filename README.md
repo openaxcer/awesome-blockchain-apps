@@ -56,6 +56,6 @@ If a project is launching an IDO, it means the project is launching a coin or to
 
 | Name   |      Token      |   Deescription | Community |
 |----------|:-------------:|----------------:|---------:|
-|[Aragon](https://aragon.org)    |:  ANT        :| | |
-|[DAO Makeer](https://daomaker.com)    |:         :| | |
+|[Aragon](https://aragon.org)    | ANT        :| | |
+|[DAO Makeer](https://daomaker.com)    |         :| | |
 
