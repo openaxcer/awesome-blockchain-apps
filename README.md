@@ -64,3 +64,12 @@ If a project is launching an IDO, it means the project is launching a coin or to
 |Curve DAO|         | | |
 |BitDAO |         | | |
 
+## Internet of Things
+IOT
+
+| Name   |      Description      |  Community |
+|----------|:-------------:|------:|
+|[Helium](https://www.helium.com/)|connecting low-power IoT machines such as microchips and routers to the internet||
+|[ NetObjex](https://www.netobjex.com/)|secure digital platform to enable interaction and communication between smart devices in one ecosystem. ||
+|[ Xage Security](https://xage.com/)|focus of Xage Security on different industries such as transportation, agriculture, utilities, and energy proves a lot about its functionality. ||
+|[ Grid+](https://gridplus.io/)|Grid+ app offers updated information regarding energy usage with the company’s smart meter connected wirelessly to energy-efficient smart devices.||
