@@ -73,3 +73,10 @@ IOT
 |[ NetObjex](https://www.netobjex.com/)|secure digital platform to enable interaction and communication between smart devices in one ecosystem. ||
 |[ Xage Security](https://xage.com/)|focus of Xage Security on different industries such as transportation, agriculture, utilities, and energy proves a lot about its functionality. ||
 |[ Grid+](https://gridplus.io/)|Grid+ app offers updated information regarding energy usage with the company’s smart meter connected wirelessly to energy-efficient smart devices.||
+
+## Move to Earn
+Allows users to get cryptocurrency rewards from walking or jogging
+| Name   |  Token |     Description      |  Community | Network |
+|--------|:-------|:---------------------:|----------:|--------:|
+|[SweatCoin][https://sweatco.in/]| SWEAT | Sweatcoin is a free app which rewards your daily steps with a new-generation currency you can spend on cool products, donate to charity or convert into SWEAT.| <img align="center" href="https://discord.gg/sweateconomy"src="https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>  | Near |
+
