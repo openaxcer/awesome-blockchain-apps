@@ -12,10 +12,10 @@
 Centralized exchanges (CEXs) are organizations that coordinate cryptocurrency trading on a large scale, using a similar business model to traditional asset exchanges like stock exchanges.
 Exchanges are essentially marketplaces. They are useful when a large number of people may be simultaneously trying to buy and sell the same type of asset. In the traditional economy, famous exchanges include the New York Stock Exchange and the London Metal Exchange. [from](https://www.coindesk.com/learn/what-is-a-cex-centralized-exchanges-explained/#:~:text=Centralized%20exchanges%20(CEXs)%20are%20organizations,Exchanges%20are%20essentially%20marketplaces.)
 
-| Name   |      Plaform      |  Community |
+| Name   |      Token      |  Community |
 |----------|:-------------:|------:|
-| [Binance](https://binance.com/) |  Etherium |  |
-| [Kucoin](https://kucoin.com) |    Binane Smart Chain   |    |
+| [Binance](https://binance.com/) |  BNB |  <a href="https://twitter.com/binance" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a> |
+| [Kucoin](https://kucoin.com) |    Kucoin   |    |
 | [FTX](https://ftx.com)| Multi Chain |     |
 
 
