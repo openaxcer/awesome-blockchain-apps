@@ -86,5 +86,5 @@ Allows users to get cryptocurrency rewards from walking or jogging
 
 | Name   |  Token |     Description      |  Network | 
 |--------|:-------|:---------------------:|----------:|
-[[Nucypher](https://www.nucypher.com/) | Nu | Cryptographic Infrastructure for Privacy-Preserving Applications   - Manage infrastructure secrets across dynamic environments. - Dynamic access control | NuCypher|
+|[Nucypher](https://www.nucypher.com/) | Nu | Cryptographic Infrastructure for Privacy-Preserving Applications   - Manage infrastructure secrets across dynamic environments. - Dynamic access control | NuCypher|
 
